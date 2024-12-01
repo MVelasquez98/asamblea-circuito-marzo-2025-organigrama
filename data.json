@@ -13,7 +13,7 @@
         "rol": "Sup. de Asamblea",
         "telefono": "3755 685339",
         "email": "13hubschermario@jwpub.org",
-        "congregacion": "Centro, San Vicente",
+        "congregacion": "Norte, San Vicente",
         "departamentos": [
           {
             "nombre": "Acomodadores",
@@ -68,11 +68,11 @@
                 "congregacion": "Km 204"
               },
               {
-                "nombre": "Eduardo Diedrich",
+                "nombre": "Saúl Gutierrez",
                 "rol": "Auxiliar",
-                "telefono": "3755 342575",
-                "email": "EDiedrich@jwpub.org",
-                "congregacion": "Centro, San Vicente"
+                "telefono": "3741 442721",
+                "email": "AlfredoG35@jwpub.org",
+                "congregacion": "San Antonio"
               }
             ]
           },
@@ -156,11 +156,11 @@
             "icono": "🩺",
             "integrantes": [
               {
-                "nombre": "Jorge Jacinto",
-                "rol": "Superintendente",
-                "telefono": "3755 641976",
-                "email": "9JJorgeL@jwpub.org",
-                "congregacion": "Salto Encantado"
+                "nombre": "Eduardo Diedrich",
+                "rol": "Auxiliar",
+                "telefono": "3755 342575",
+                "email": "EDiedrich@jwpub.org",
+                "congregacion": "Centro, San Vicente"
               },
               {
                 "nombre": "Daniel Villalba",
@@ -197,18 +197,18 @@
                 "congregacion": "Norte, San Vicente"
               },
               {
-                "nombre": "Saúl Gutierrez",
-                "rol": "Auxiliar",
-                "telefono": "3741 442721",
-                "email": "AlfredoG35@jwpub.org",
-                "congregacion": "San Antonio"
-              },
-              {
                 "nombre": "Pablo Steinbrenner",
                 "rol": "Auxiliar",
                 "telefono": "3755 690954",
                 "email": "SPablo13@jwpub.org",
                 "congregacion": "Sur, San Vicente"
+              },
+              {
+                "nombre": "Celso Bones",
+                "rol": "Auxiliar",
+                "telefono": "3757 462091",
+                "email": "CelsoBones1@jwpub.org",
+                "congregacion": "San Antonio"
               }
             ]
           }
@@ -351,11 +351,11 @@
                 "congregacion": "Campo Grande"
               },
               {
-                "nombre": "Esteban Genou",
+                "nombre": "Esteban Genoud",
                 "rol": "Auxiliar",
-                "telefono": "2974 252079",
-                "email": "5@jwpub.org",
-                "congregacion": "Campo Grande"
+                "telefono": "3755 341255",
+                "email": "estebangenoud@jwpub.org",
+                "congregacion": "Campo Viera"
               },
               {
                 "nombre": "Mauri Eidinger",
@@ -411,13 +411,6 @@
                     "telefono": "3755 204444",
                     "email": "10LeandroL@jwpub.org",
                     "congregacion": "Sur, San Vicente"
-                  },
-                  {
-                    "nombre": "Celso Bones",
-                    "rol": "Auxiliar",
-                    "telefono": "3757 462091",
-                    "email": "CelsoBones1@jwpub.org",
-                    "congregacion": "San Antonio"
                   }
                 ]
               }

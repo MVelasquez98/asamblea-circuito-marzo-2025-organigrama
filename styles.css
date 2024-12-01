@@ -57,18 +57,21 @@ body {
 
 .legend {
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-between;
     padding: 10px;
     background-color: #eee;
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 8px;
+    font-size: 13px;
 }
 
 .symbol {
     display: flex;
     align-items: center;
     gap: 5px;
-    font-size: 14px;
+    padding: 5px;
+    flex: 1 1 100px; /* Ajusta ancho mínimo */
 }
 
 .symbol::before {
@@ -190,3 +193,31 @@ body {
     color: #234;
     border-radius: 8px;
   }
+
+  .download-button {
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .download-button .btn {
+    background-color: #cd853f; /* Ajusta al color deseado */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-button .btn:hover {
+    background-color: #b27330; /* Cambia el color al pasar el mouse */
+  }
+
+  @media (max-width: 600px) {
+    .legend {
+        flex-direction: column;
+        align-items: center;
+    }
+}
