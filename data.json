@@ -404,14 +404,6 @@
             ]
           }
         ]
-      },
-      {
-        "id": "4",
-        "nombre": "Matias Velasquez",
-        "rol": "Secretario",
-        "telefono": "11 5855-9679",
-        "email": "MVelasquez@jwpub.org",
-        "congregacion": "Sur, San Vicente"
       }
     ]
   }
