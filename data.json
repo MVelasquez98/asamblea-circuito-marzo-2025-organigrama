@@ -35,14 +35,14 @@
               },
               {
                 "nombre": "Cristian Verdun",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "376 4502928",
                 "email": "VerdunCristian16@jwpub.org",
                 "congregacion": "Campo Grande"
               },
               {
                 "nombre": "Marcelo Radke",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 628301",
                 "email": "MARCELORADKE17@jwpub.org",
                 "congregacion": "Campo Grande"
@@ -69,7 +69,7 @@
               },
               {
                 "nombre": "Saúl Gutierrez",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3741 442721",
                 "email": "AlfredoG35@jwpub.org",
                 "congregacion": "San Antonio"
@@ -96,28 +96,28 @@
               },
               {
                 "nombre": "David Costa",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 667911",
                 "email": "CostaD17@jwpub.org",
                 "congregacion": "C. Dos de Mayo"
               },
               {
                 "nombre": "Jonhathan Padilla",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 288454",
                 "email": "JonhathanP19@jwpub.org",
                 "congregacion": "Salto Encantado"
               },
               {
                 "nombre": "Hugo Datschke",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 481186",
                 "email": "Dhugo21@jwpub.org",
                 "congregacion": "Campo Grande"
               },
               {
                 "nombre": "Mauricio Weiss",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 292905",
                 "email": "MWeiss13@jwpub.org",
                 "congregacion": "Campo Viera"
@@ -129,11 +129,12 @@
             "icono": "🔒",
             "integrantes": [
               {
-                "nombre": "Carlos D. Espindola",
+                "id": "4",
+                "nombre": "Matias Velasquez",
                 "rol": "Superintendente",
-                "telefono": "3755 304302",
-                "email": "CarlosAD1@jwpub.org",
-                "congregacion": "Col. Dos de Mayo"
+                "telefono": "11 5855-9679",
+                "email": "MVelasquez@jwpub.org",
+                "congregacion": "Sur, San Vicente"
               },
               {
                 "nombre": "Daniel Frattini",
@@ -141,13 +142,6 @@
                 "telefono": "3755 533239",
                 "email": "JDFrattini1@jwpub.org",
                 "congregacion": "Norte, San Vicente"
-              },
-              {
-                "nombre": "Nelson Camaño",
-                "rol": "Auxiliar",
-                "telefono": "3755 713022",
-                "email": "2CamañoNelson@jwpub.org",
-                "congregacion": "Centro, San Vicente"
               }
             ]
           },
@@ -157,7 +151,7 @@
             "integrantes": [
               {
                 "nombre": "Eduardo Diedrich",
-                "rol": "Auxiliar",
+                "rol": "Superintendente",
                 "telefono": "3755 342575",
                 "email": "EDiedrich@jwpub.org",
                 "congregacion": "Centro, San Vicente"
@@ -191,21 +185,21 @@
               },
               {
                 "nombre": "Marcos Fretes",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "223 6939025",
                 "email": "MFretes1@jwpub.org",
                 "congregacion": "Norte, San Vicente"
               },
               {
                 "nombre": "Pablo Steinbrenner",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 690954",
                 "email": "SPablo13@jwpub.org",
-                "congregacion": "Sur, San Vicente"
+                "congregacion": "Campo Viera"
               },
               {
                 "nombre": "Celso Bones",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3757 462091",
                 "email": "CelsoBones1@jwpub.org",
                 "congregacion": "San Antonio"
@@ -227,43 +221,43 @@
             "icono": "📹",
             "integrantes": [
               {
-                "nombre": "José Oubel",
-                "rol": "Superintendente",
-                "telefono": "11 5659 4356",
-                "email": "2Oubel@jwpub.org",
-                "congregacion": "San Pedro"
-              },
-              {
                 "nombre": "Renato Basualdo",
-                "rol": "Auxiliar",
+                "rol": "Superintendente",
                 "telefono": "3755 546536",
                 "email": "RenatoBasualdo@jwpub.org",
                 "congregacion": "El Soberbio"
               },
               {
-                "nombre": "Natan Putkkuri",
+                "nombre": "Carlos D. Espindola",
                 "rol": "Auxiliar",
+                "telefono": "3755 304302",
+                "email": "CarlosAD1@jwpub.org",
+                "congregacion": "Col. Dos de Mayo"
+              },
+              {
+                "nombre": "Natan Putkkuri",
+                "rol": "Hombre Clave",
                 "telefono": "3755 520441",
                 "email": "NatanP8@jwpub.org",
                 "congregacion": "San Antonio"
               },
               {
                 "nombre": "Nodier Hukowski",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 229459",
                 "email": "Hukowskinodier20@jwpub.org",
-                "congregacion": "Capitán morales"
+                "congregacion": "Centro, San Vicente"
               },
               {
                 "nombre": "Jonatan Koriski",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 534198",
                 "email": "KoriskiJonatan36@jwpub.org",
                 "congregacion": "Sur, San Vicente"
               },
               {
                 "nombre": "Maximiliano Alvez",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3751 365908",
                 "email": "GAlvezDaLuz19@jwpub.org",
                 "congregacion": "San Pedro"
@@ -317,15 +311,8 @@
             "icono": "👜",
             "integrantes": [
               {
-                "nombre": "Jorge Jacinto",
-                "rol": "Superintendente",
-                "telefono": "3755 641976",
-                "email": "9JJorgeL@jwpub.org",
-                "congregacion": "Salto Encantado"
-              },
-              {
                 "nombre": "Alexis Feltan",
-                "rol": "Auxiliar",
+                "rol": "Superintendente",
                 "telefono": "3755 218494",
                 "email": "FeltanA2@jwpub.org",
                 "congregacion": "C. Dos de Mayo"
@@ -352,35 +339,35 @@
               },
               {
                 "nombre": "Esteban Genoud",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 341255",
                 "email": "estebangenoud@jwpub.org",
                 "congregacion": "Campo Viera"
               },
               {
                 "nombre": "Mauri Eidinger",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 238365",
                 "email": "EMauri1@jwpub.org",
                 "congregacion": "Centro, San Vicente"
               },
               {
                 "nombre": "Dario Hukowski",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3755 500080",
                 "email": "hukowski25@jwpub.org",
                 "congregacion": "Norte, San Vicente"
               },
               {
                 "nombre": "Daniel Coman",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "11 5566 4871",
                 "email": "dcoman@jwpub.org",
                 "congregacion": "Norte, San Vicente"
               },
               {
                 "nombre": "Lucas Abrigo",
-                "rol": "Auxiliar",
+                "rol": "Hombre Clave",
                 "telefono": "3741 419038",
                 "email": "LucasAbrigo10@jwpub.org",
                 "congregacion": "Sur, San Vicente"
@@ -407,7 +394,7 @@
                   },
                   {
                     "nombre": "Leandro Lining",
-                    "rol": "Auxiliar",
+                    "rol": "Hombre Clave",
                     "telefono": "3755 204444",
                     "email": "10LeandroL@jwpub.org",
                     "congregacion": "Sur, San Vicente"
